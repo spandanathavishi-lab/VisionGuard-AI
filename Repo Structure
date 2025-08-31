@@ -1,0 +1,15 @@
+VisionGuard-AI/
+├── src/
+│   ├── redact.py           # main script
+│   ├── ocr_module.py       # OCR logic
+│   ├── nlp_module.py       # NLP/NER logic
+│   ├── vision_module.py    # YOLO/OpenCV logic
+├── requirements.txt        # dependencies
+├── README.md               # project overview
+├── docs/
+│   ├── VisionGuard_AI_Presentation.pdf
+│   ├── VisionGuard_AI_Concept_Note.pdf
+│   └── architecture_diagram.png
+└── samples/
+    ├── input.pdf
+    └── output_redacted.pdf
